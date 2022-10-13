@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ToxicSting.label>trujące ukąszenie</ToxicSting.label>
+  <ToxicSting.deathMessage>{0} został/a śmiertelnie ukąszony/a.</ToxicSting.deathMessage>
+</LanguageData>

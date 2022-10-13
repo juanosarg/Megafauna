@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData> 
+	<Arthropleura.label>artropleura</Arthropleura.label>
+    <Arthropleura.labelPlural>artropleury</Arthropleura.labelPlural>
+	<Arthropleura.lifeStages.0.labelMale>larwa artropleury</Arthropleura.lifeStages.0.label>
+    <Arthropleura.labelMale>samiec artropleury</Arthropleura.labelMale>
+    <Arthropleura.labelFemale>samica artropleury</Arthropleura.labelFemale>
+
+	<Doedicurus.label>doedicurus</Doedicurus.label>
+    <Doedicurus.labelPlural>doedicurusy</Doedicurus.labelPlural>
+    <Doedicurus.labelMale>samiec doedicurusa</Doedicurus.labelMale>
+    <Doedicurus.labelFemale>samica doedicurusa</Doedicurus.labelFemale>
+	
+	<Daeodon.label>daeodon</Daeodon.label>
+    <Daeodon.labelPlural>daeodony</Daeodon.labelPlural>
+    <Daeodon.labelMale>samiec daeodona</Daeodon.labelMale>
+    <Daeodon.labelFemale>samica daeodona</Daeodon.labelFemale>
+
+	<Gigantopithecus.label>gigantopitek</Gigantopithecus.label>
+    <Gigantopithecus.labelPlural>gigantopiteki</Gigantopithecus.labelPlural>
+    <Gigantopithecus.labelMale>samiec gigantopiteka</Gigantopithecus.labelMale>
+    <Gigantopithecus.labelFemale>samica gigantopiteka</Gigantopithecus.labelFemale>
+	
+	<Paraceratherium.label>paraceraterium</Paraceratherium.label>
+    <Paraceratherium.labelPlural>paracerateria</Paraceratherium.labelPlural>
+	<Paraceratherium.lifeStages.0.labelMale>cielę paraceraterium</Paraceratherium.lifeStages.0.labelMale>
+  	<Paraceratherium.lifeStages.0.labelFemale>jałówka paraceraterium</Paraceratherium.lifeStages.0.labelFemale>
+    <Paraceratherium.labelMale>samiec paraceraterium</Paraceratherium.labelMale>
+    <Paraceratherium.labelFemale>samica paraceraterium</Paraceratherium.labelFemale>
+
+	<Titanis.label>titanis</Titanis.label>
+    <Titanis.labelPlural>ptaki titanis</Titanis.labelPlural>
+	<Titanis.lifeStages.0.labelMale>pisklę titanis</Titanis.lifeStages.0.labelMale>
+  	<Titanis.lifeStages.0.labelFemale>pisklę titanis</Titanis.lifeStages.0.labelFemale>
+    <Titanis.labelMale>samiec titanis</Titanis.labelMale>
+    <Titanis.labelFemale>samica titanis</Titanis.labelFemale>
+
+	<Titanoboa.label>titanoboa</Titanoboa.label>
+    <Titanoboa.labelPlural>węże titanoboa</Titanoboa.labelPlural>
+    <Titanoboa.labelMale>samiec titanoboa</Titanoboa.labelMale>
+    <Titanoboa.labelFemale>samica titanoboa</Titanoboa.labelFemale>
+
+	<WoollyMammoth.label>mamut włochaty</WoollyMammoth.label>
+    <WoollyMammoth.labelPlural>mamuty włochate</WoollyMammoth.labelPlural>
+	<WoollyMammoth.lifeStages.0.labelMale>mamuciątko</WoollyMammoth.lifeStages.0.labelMale>
+  	<WoollyMammoth.lifeStages.0.labelFemale>mamuciątko</WoollyMammoth.lifeStages.0.labelFemale>
+    <WoollyMammoth.labelMale>samiec mamuta włochatego</WoollyMammoth.labelMale>
+    <WoollyMammoth.labelFemale>samica mamuta włochatego</WoollyMammoth.labelFemale>
+	
+	<Elasmotherium.label>elasmoterium</Elasmotherium.label>
+    <Elasmotherium.labelPlural>elasmoteria</Elasmotherium.labelPlural>
+    <Elasmotherium.labelMale>samiec elasmoterium</Elasmotherium.labelMale>
+    <Elasmotherium.labelFemale>samica elasmoterium</Elasmotherium.labelFemale>
+	
+	<Smilodon.label>smilodon</Smilodon.label>
+    <Smilodon.labelPlural>smilodony</Smilodon.labelPlural>
+    <Smilodon.labelMale>samiec smilodona</Smilodon.labelMale>
+    <Smilodon.labelFemale>samica smilodona</Smilodon.labelFemale>
+	
+	<Chalicotherium.label>chalikoterium</Chalicotherium.label>
+    <Chalicotherium.labelPlural>chalikoteria</Chalicotherium.labelPlural>
+    <Chalicotherium.labelMale>samiec chalikoterium</Chalicotherium.labelMale>
+    <Chalicotherium.labelFemale>samica chalikoterium</Chalicotherium.labelFemale>
+	
+	<Megaloceros.label>megaloceros</Megaloceros.label>
+    <Megaloceros.labelPlural>megalocerosy</Megaloceros.labelPlural>
+    <Megaloceros.labelMale>samiec megalocerosa</Megaloceros.labelMale>
+    <Megaloceros.labelFemale>samica megalocerosa</Megaloceros.labelFemale>
+
+	<Procoptodon.label>procoptodon</Procoptodon.label>
+    <Procoptodon.labelPlural>procoptodony</Procoptodon.labelPlural>
+    <Procoptodon.labelMale>samiec procoptodona</Procoptodon.labelMale>
+    <Procoptodon.labelFemale>samica procoptodona</Procoptodon.labelFemale>
+	
+	<Megalania.label>megalania</Megalania.label>
+    <Megalania.labelPlural>megalanie</Megalania.labelPlural>
+    <Megalania.labelMale>samiec megalanii</Megalania.labelMale>
+    <Megalania.labelFemale>samica megalanii</Megalania.labelFemale>
+	
+	<Gomphotaria.label>gomfotaria</Gomphotaria.label>
+    <Gomphotaria.labelPlural>gomfotarie</Gomphotaria.labelPlural>
+    <Gomphotaria.labelMale>samiec gomfotarii</Gomphotaria.labelMale>
+    <Gomphotaria.labelFemale>samica gomfotarii</Gomphotaria.labelFemale>
+	
+	<Diprotodon.label>diprotodon</Diprotodon.label>	
+    <Diprotodon.labelPlural>diprotodony</Diprotodon.labelPlural>
+    <Diprotodon.labelMale>samiec diprotodona</Diprotodon.labelMale>
+    <Diprotodon.labelFemale>samica diprotodona</Diprotodon.labelFemale>
+	
+	<ShortfacedBear.label>niedźwiedź krótkopyski</ShortfacedBear.label>
+    <ShortfacedBear.labelPlural>niedźwiedzie krótkopyskie</ShortfacedBear.labelPlural>
+	<ShortfacedBear.lifeStages.0.labelMale>niedźwiadek krótkopyski</ShortfacedBear.lifeStages.0.labelMale>
+  	<ShortfacedBear.lifeStages.0.labelFemale>niedźwiadek krótkopyski</ShortfacedBear.lifeStages.0.labelFemale>
+    <ShortfacedBear.labelMale>niedźwiedź krótkopyski</ShortfacedBear.labelMale>
+    <ShortfacedBear.labelFemale>niedźwiedzica krótkopyska</ShortfacedBear.labelFemale>
+
+	<Dinocrocuta.label>dinokrokuta</Dinocrocuta.label>
+    <Dinocrocuta.labelPlural>dinokrokuty</Dinocrocuta.labelPlural>
+    <Dinocrocuta.labelMale>samiec dinokrokuty</Dinocrocuta.labelMale>
+    <Dinocrocuta.labelFemale>samica dinokrokuty</Dinocrocuta.labelFemale>
+	
+	<Sivatherium.label>siwaterium</Sivatherium.label>
+    <Sivatherium.labelPlural>siwateria</Sivatherium.labelPlural>
+    <Sivatherium.labelMale>samiec siwaterium</Sivatherium.labelMale>
+    <Sivatherium.labelFemale>samica siwaterium</Sivatherium.labelFemale>
+	
+	<Andrewsarchus.label>andrewsarchus</Andrewsarchus.label>
+    <Andrewsarchus.labelPlural>andrewsarchusy</Andrewsarchus.labelPlural>
+    <Andrewsarchus.labelMale>samiec andrewsarchusa</Andrewsarchus.labelMale>
+    <Andrewsarchus.labelFemale>samica andrewsarchusa</Andrewsarchus.labelFemale>
+	
+	<Dinornis.label>dinornis</Dinornis.label>
+    <Dinornis.labelPlural>ptaki dinornis</Dinornis.labelPlural>
+	<Dinornis.lifeStages.0.labelMale>pisklę dinornis</Dinornis.lifeStages.0.labelMale>
+  	<Dinornis.lifeStages.0.labelFemale>pisklę dinornis</Dinornis.lifeStages.0.labelFemale>
+    <Dinornis.labelMale>samiec dinornis</Dinornis.labelMale>
+    <Dinornis.labelFemale>samica dinornis</Dinornis.labelFemale>
+	
+	<Macrauchenia.label>makrauchenia</Macrauchenia.label>
+    <Macrauchenia.labelPlural>makrauchenie</Macrauchenia.labelPlural>
+    <Macrauchenia.labelMale>samiec makrauchenii</Macrauchenia.labelMale>
+    <Macrauchenia.labelFemale>samica makrauchenii</Macrauchenia.labelFemale>
+	
+	<Quinkana.label>quinkana</Quinkana.label>
+    <Quinkana.labelPlural>quinkany</Quinkana.labelPlural>
+    <Quinkana.labelMale>samiec quinkany</Quinkana.labelMale>
+    <Quinkana.labelFemale>samica quinkany</Quinkana.labelFemale>
+	
+	<Deinotherium.label>deinoterium</Deinotherium.label>
+    <Deinotherium.labelPlural>deinoteria</Deinotherium.labelPlural>
+	<Deinotherium.lifeStages.0.labelMale>cielę deinoterium</Deinotherium.lifeStages.0.labelMale>
+  	<Deinotherium.lifeStages.0.labelFemale>jałówka deinoterium</Deinotherium.lifeStages.0.labelFemale>
+    <Deinotherium.labelMale>samiec deinoterium</Deinotherium.labelMale>
+    <Deinotherium.labelFemale>samica deinoterium</Deinotherium.labelFemale>
+	
+	<Aurochs.label>tur</Aurochs.label>
+    <Aurochs.labelPlural>tury</Aurochs.labelPlural>
+	<Aurochs.lifeStages.0.labelMale>cielę tura</Aurochs.lifeStages.0.labelMale>
+  	<Aurochs.lifeStages.0.labelFemale>jałówka tura</Aurochs.lifeStages.0.labelFemale>
+    <Aurochs.labelMale>samiec tura</Aurochs.labelMale>
+    <Aurochs.labelFemale>samica tura</Aurochs.labelFemale>
+	
+	<Megalochelys.label>megalochelys</Megalochelys.label>
+    <Megalochelys.labelPlural>megalochelysy</Megalochelys.labelPlural>
+    <Megalochelys.labelMale>samiec megalochelysa</Megalochelys.labelMale>
+    <Megalochelys.labelFemale>samica megalochelysa</Megalochelys.labelFemale>
+	
+	<Palaeeudyptes.label>palaeeudyptes</Palaeeudyptes.label>
+    <Palaeeudyptes.labelPlural>palaeeudyptesy</Palaeeudyptes.labelPlural>
+	<Palaeeudyptes.lifeStages.0.labelMale>pisklę palaeeudyptesa</Palaeeudyptes.lifeStages.0.labelMale>
+  	<Palaeeudyptes.lifeStages.0.labelFemale>pisklę palaeeudyptesa</Palaeeudyptes.lifeStages.0.labelFemale>
+    <Palaeeudyptes.labelMale>samiec palaeeudyptesa</Palaeeudyptes.labelMale>
+    <Palaeeudyptes.labelFemale>samica palaeeudyptesa</Palaeeudyptes.labelFemale>
+	
+	<Josephoartigasia.label>josephoartigasia</Josephoartigasia.label>
+    <Josephoartigasia.labelPlural>josephoartigasie</Josephoartigasia.labelPlural>
+    <Josephoartigasia.labelMale>samiec josephoartigasii</Josephoartigasia.labelMale>
+    <Josephoartigasia.labelFemale>samica josephoartigasii</Josephoartigasia.labelFemale>
+	
+	<Gigantophis.label>gigantofis</Gigantophis.label>
+    <Gigantophis.labelPlural>gigantofisy</Gigantophis.labelPlural>
+    <Gigantophis.labelMale>samiec gigantofisa</Gigantophis.labelMale>
+    <Gigantophis.labelFemale>samica gigantofisa</Gigantophis.labelFemale>
+	
+	<Meganeura.label>meganeura</Meganeura.label>
+    <Meganeura.labelPlural>meganeury</Meganeura.labelPlural>
+	<Meganeura.lifeStages.0.labelMale>nimfa meganeury</Meganeura.lifeStages.0.labelMale>
+  	<Meganeura.lifeStages.0.labelFemale>nimfa meganeury</Meganeura.lifeStages.0.labelFemale>
+    <Meganeura.labelMale>samiec meganeury</Meganeura.labelMale>
+    <Meganeura.labelFemale>samica meganeury</Meganeura.labelFemale>
+	
+	<Zygolophodon.label>zygolofodon</Zygolophodon.label>
+    <Zygolophodon.labelPlural>zygolofodony</Zygolophodon.labelPlural>
+	<Zygolophodon.lifeStages.0.labelMale>cielę zygolofodona</Zygolophodon.lifeStages.0.labelMale>
+  	<Zygolophodon.lifeStages.0.labelFemale>jałówka zygolofodona</Zygolophodon.lifeStages.0.labelFemale>
+    <Zygolophodon.labelMale>samiec zygolofodona</Zygolophodon.labelMale>
+    <Zygolophodon.labelFemale>samica zygolofodona</Zygolophodon.labelFemale>
+	
+	<Platybelodon.label>platybelodon</Platybelodon.label>
+    <Platybelodon.labelPlural>platybelodony</Platybelodon.labelPlural>
+	<Platybelodon.lifeStages.0.labelMale>cielę platybelodona</Platybelodon.lifeStages.0.labelMale>
+  	<Platybelodon.lifeStages.0.labelFemale>jałówka platybelodona</Platybelodon.lifeStages.0.labelFemale>
+    <Platybelodon.labelMale>samiec platybelodona</Platybelodon.labelMale>
+    <Platybelodon.labelFemale>samica platybelodona</Platybelodon.labelFemale>
+
+	<Purussaurus.label>purussaurus</Purussaurus.label>
+    <Purussaurus.labelPlural>purussaurusy</Purussaurus.labelPlural>
+    <Purussaurus.labelMale>samiec purussaurusa</Purussaurus.labelMale>
+    <Purussaurus.labelFemale>samica purussaurusa</Purussaurus.labelFemale>
+
+	<Uintatherium.label>uintaterium</Uintatherium.label>
+    <Uintatherium.labelPlural>uintateria</Uintatherium.labelPlural>
+	<Uintatherium.lifeStages.0.labelMale>cielę uintaterium</Uintatherium.lifeStages.0.labelMale>
+  	<Uintatherium.lifeStages.0.labelFemale>jałówka uintaterium</Uintatherium.lifeStages.0.labelFemale>
+    <Uintatherium.labelMale>samiec uintaterium</Uintatherium.labelMale>
+    <Uintatherium.labelFemale>samica uintaterium</Uintatherium.labelFemale>
+
+	<Pulmonoscorpius.label>pulmonoscorpius</Pulmonoscorpius.label>
+    <Pulmonoscorpius.labelPlural>pulmonoscorpiusy</Pulmonoscorpius.labelPlural>
+	<Pulmonoscorpius.lifeStages.0.labelMale>larwa pulmonoscorpiusa</Pulmonoscorpius.lifeStages.0.labelMale>
+  	<Pulmonoscorpius.lifeStages.0.labelFemale>larwa pulmonoscorpiusa</Pulmonoscorpius.lifeStages.0.labelFemale>
+    <Pulmonoscorpius.labelMale>samiec pulmonoscorpiusa</Pulmonoscorpius.labelMale>
+    <Pulmonoscorpius.labelFemale>samica pulmonoscorpiusa</Pulmonoscorpius.labelFemale>
+	
+	<Dinopithecus.label>dinopitek</Dinopithecus.label>
+    <Dinopithecus.labelPlural>dinopiteki</Dinopithecus.labelPlural>
+    <Dinopithecus.labelMale>samiec dinopiteka</Dinopithecus.labelMale>
+    <Dinopithecus.labelFemale>samica dinopiteka</Dinopithecus.labelFemale>
+	
+	<Castoroides.label>castoroides</Castoroides.label>
+    <Castoroides.labelPlural>castoroidesy</Castoroides.labelPlural>
+    <Castoroides.labelMale>samiec castoroidesa</Castoroides.labelMale>
+    <Castoroides.labelFemale>samica castoroidesa</Castoroides.labelFemale>
+	
+	<Enhydriodon.label>enhydriodon</Enhydriodon.label>
+    <Enhydriodon.labelPlural>enhydriodony</Enhydriodon.labelPlural>
+    <Enhydriodon.labelMale>samiec enhydriodona</Enhydriodon.labelMale>
+    <Enhydriodon.labelFemale>samica enhydriodona</Enhydriodon.labelFemale>
+</LanguageData>

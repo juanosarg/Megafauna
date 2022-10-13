@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Arthropleura.label>artropleura</Arthropleura.label>
+	<Arthropleura.description>Dawno wymarłe, ogromne stawonogi, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy znany lądowy bezkręgowiec wszechczasów. Artropleury są wielkimi, samotnie żyjącymi, roślinożernymi wijami. W większości nieszkodliwe, zaatakują tylko w samoobronie.\nNiektórzy szaleńcy skłonni są zapłacić majątek za jajka tych bestii.</Arthropleura.description>
+	<Arthropleura_Corpse.label>Zwłoki artropleury</Arthropleura_Corpse.label>
+    <Arthropleura_Corpse.description>Martwe ciało artropleury.</Arthropleura_Corpse.description>
+	
+	<Doedicurus.label>doedicurus</Doedicurus.label>
+	<Doedicurus.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy znany przedstawiciel glyptodontów. Jego wielka skorupa jest praktycznie niezniszczalna dla drapieżników.\nMimo że końcówka jego ogona najeżona jest kolcami, przez co mogłaby teoretycznie służyć zwierzęciu jako narzędzie obrony, te nie jest w stanie używać jej efektywnie z powodu swego bardzo ograniczonego pola widzenia.</Doedicurus.description>	
+    <Doedicurus.tools.0.label>ogon</Doedicurus.tools.0.label>
+    <Doedicurus.tools.1.label>lewy pazur</Doedicurus.tools.1.label>
+    <Doedicurus.tools.2.label>prawy pazur</Doedicurus.tools.2.label>
+	<Doedicurus_Leather.label>skóra doedicurusa</Doedicurus_Leather.label>
+    <!--  <Doedicurus_Leather.description>Materiał wytworzony ze skóry doedicurusa.</Doedicurus_Leather.description>
+		  <Doedicurus_Leather.stuffProps.stuffAdjective>ze skóry doedicurusa</Doedicurus_Leather.stuffProps.stuffAdjective> -->
+    <Doedicurus_Meat.label>mięso z doedicurusa</Doedicurus_Meat.label>
+    <Doedicurus_Meat.description>Surowe mięso z doedicurusa.</Doedicurus_Meat.description>
+    <Doedicurus_Corpse.label>Zwłoki doedicurusa</Doedicurus_Corpse.label>
+    <Doedicurus_Corpse.description>Martwe ciało doedicurusa.</Doedicurus_Corpse.description>
+	
+	<Daeodon.label>daeodon</Daeodon.label>
+	<Daeodon.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nDaeodony to wielkie wszystkożerne zwierzęcia, przypominające świnie. Jednakże, są one znacznie bardziej agresywne i niebezpieczne niż ich dzisiejsze odpowiedniki. Nie zaleca się zbliżać do ich olbrzymich, przerażających paszcz.</Daeodon.description>	
+    <Daeodon.tools.0.label>lewe kopyto</Daeodon.tools.0.label>
+    <Daeodon.tools.1.label>prawe kopyto</Daeodon.tools.1.label>
+	<!--  <Daeodon_Leather.label>skóra daeodona</Daeodon_Leather.label>
+		  <Daeodon_Leather.description>Materiał wytworzony ze skóry daeodona.</Daeodon_Leather.description>
+		  <Daeodon_Leather.stuffProps.stuffAdjective>ze skóry daeodona</Daeodon_Leather.stuffProps.stuffAdjective> -->
+    <Daeodon_Corpse.label>Zwłoki daeodona</Daeodon_Corpse.label>
+    <Daeodon_Corpse.description>Martwe ciało daeodona.</Daeodon_Corpse.description>	
+	
+	<Gigantopithecus.label>gigantopitek</Gigantopithecus.label>
+	<Gigantopithecus.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększa znana małpa człekokształtna. Gigantopiteki to bardzo inteligentne, społeczne stworzenia, żywiące się nasionami i owocami. Dzięki swojemu gęstemu futru, niestraszne są im niskie temperatury - mówi się, że to właśnie samotne osobniki tego gatunku, szwędające się po górskich terenach, dały początek legendom o mitycznej Wielkiej Stopie.</Gigantopithecus.description>	
+    <Gigantopithecus.tools.0.label>lewa pięść</Gigantopithecus.tools.0.label>
+    <Gigantopithecus.tools.1.label>prawa pięść</Gigantopithecus.tools.1.label>
+	<!--  <Gigantopithecus_Leather.label>futro gigantopiteka</Gigantopithecus_Leather.label>
+          <Gigantopithecus_Leather.description>Materiał wytworzony z futra gigantopiteka.</Gigantopithecus_Leather.description>
+		  <Gigantopithecus_Leather.stuffProps.stuffAdjective>z futra gigantopiteka</Gigantopithecus_Leather.stuffProps.stuffAdjective>
+		  <Gigantopithecus_Meat.label>mięso z gigantopiteka</Gigantopithecus_Meat.label>
+		  <Gigantopithecus_Meat.description>Surowe mięso z gigantopiteka.</Gigantopithecus_Meat.description>  -->
+    <Gigantopithecus_Corpse.label>Zwłoki gigantopiteka</Gigantopithecus_Corpse.label>
+    <Gigantopithecus_Corpse.description>Martwe ciało gigantopiteka.</Gigantopithecus_Corpse.description>
+	
+	<Paraceratherium.label>paraceraterium</Paraceratherium.label>
+	<Paraceratherium.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwięszy ssak lądowy, jaki kiedykolwiek stąpał po Ziemi. Pomimo faktu, iż paraceraterium jest z reguły zwierzęciem o łagodnym usposobieniu, to sam jego rozmiar czyni go w walce przeciwnikiem niezwykle wręcz trudnym do pokonania. \nSpożywa ogromne ilości roślin, dosięgając przy tym koron nawet najwyższych z drzew, dzięki swej bardzo długiej szyji - cesze czyniącej je unikatowym na tle innych gatunków nosorożców.</Paraceratherium.description>	
+    <Paraceratherium.tools.0.label>lewe kopyto</Paraceratherium.tools.0.label>
+    <Paraceratherium.tools.1.label>prawe kopyto</Paraceratherium.tools.1.label>
+	<!--  <Paraceratherium_Leather.label>skóra paraceraterium</Paraceratherium_Leather.label>
+		  <Paraceratherium_Leather.description>Materiał wytworzony ze skóry paraceraterium.</Paraceratherium_Leather.description>
+		  <Paraceratherium_Leather.stuffProps.stuffAdjective>ze skóry paraceraterium</Paraceratherium_Leather.stuffProps.stuffAdjective>
+		  <Paraceratherium_Meat.label>mięso z paraceraterium</Paraceratherium_Meat.label>
+		  <Paraceratherium_Meat.description>Surowe mięso z paraceraterium.</Paraceratherium_Meat.description>  -->
+    <Paraceratherium_Corpse.label>Zwłoki paraceraterium</Paraceratherium_Corpse.label>
+    <Paraceratherium_Corpse.description>Martwe ciało paraceraterium.</Paraceratherium_Corpse.description>	
+	
+	<Titanis.label>titanis</Titanis.label>
+	<Titanis.description>Dawno wymarłe, ogromne ptaki, przywrócone do życia w ramach Projektu Megafauna.\n\nKolokwialnie nazywane "terror birds", titanis to wielkie mięsożerne nieloty. Ich nieproporcjonalnie duże dzioby są śmiercionośne w połączeniu z silnymi nogami, pozwalającymi im z łatwością dogonić swoje ofiary, a także zadawać bolesne kopnięcia i zadrapania.</Titanis.description>	
+    <Titanis.tools.0.label>pazury</Titanis.tools.0.label>
+	<!--  <Titanis_Leather.label>skóra titanis</Titanis_Leather.label>
+		  <Titanis_Leather.description>Materiał wytworzony ze skóry ptaka titanis.</Titanis_Leather.description>
+		  <Titanis_Leather.stuffProps.stuffAdjective>ze skóry titanis</Titanis_Leather.stuffProps.stuffAdjective> -->
+    <Titanis_Corpse.label>Zwłoki titanis</Titanis_Corpse.label>
+    <Titanis_Corpse.description>Martwe ciało ptaka titanis.</Titanis_Corpse.description>		
+
+	<Titanoboa.label>titanoboa</Titanoboa.label>
+	<Titanoboa.description>Dawno wymarłe, ogromne gady, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy z węży, jakie kiedykolwiek zamieszkiwały Ziemię, Titanoboa, jest w stanie połknąć krowę w całości. Potrafi zabić zwierzęta średnich rozmiarów w ledwie kilka sekund, przez co nikt bez odpowiedniego wyposażenia za wszelką cenę nie powinien się do niego zbliżać.</Titanoboa.description>	
+    <!--  <Titanoboa_Leather.label>skóra titanoboa</Titanoboa_Leather.label>
+		  <Titanoboa_Leather.description>Materiał wytworzony ze skóry węża titanoboa.</Titanoboa_Leather.description>
+		  <Titanoboa_Leather.stuffProps.stuffAdjective>ze skóry titanoboa</Titanoboa_Leather.stuffProps.stuffAdjective> -->
+    <Titanoboa_Meat.label>mięso węża</Titanoboa_Meat.label>
+    <Titanoboa_Meat.description>Surowe mięso z węża.</Titanoboa_Meat.description>
+    <Titanoboa_Corpse.label>Zwłoki węża titanoboa</Titanoboa_Corpse.label>
+    <Titanoboa_Corpse.description>Martwe ciało węża titanoboa.</Titanoboa_Corpse.description>
+	
+	<WoollyMammoth.label>mamut włochaty</WoollyMammoth.label>
+	<WoollyMammoth.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nBliski krewny dzisiejszych słoni. Wcześni ludzie polowali na nie ze względu na ich futro, mięso, i cenne ciosy. \nW przeciwieństwie do tego, jak to się ma u ich współczesnych odpowiedników, uszy i ogony mamutów są stosunkowo krótkie - w celu zminimalizowania utraty ciepła i ryzyka odmrożenia</WoollyMammoth.description>	
+    <WoollyMammoth.tools.0.label>cios</WoollyMammoth.tools.0.label>
+    <WoollyMammoth.tools.1.label>lewa stopa</WoollyMammoth.tools.1.label>
+    <WoollyMammoth.tools.2.label>prawa stopa</WoollyMammoth.tools.2.label>
+    <WoollyMammoth.tools.3.label>głowa</WoollyMammoth.tools.3.label>
+	<!--  <WoollyMammoth_Leather.label>skóra mamuta</WoollyMammoth_Leather.label>
+		  <WoollyMammoth_Leather.description>Materiał wytworzony z mamuciej skóry.</WoollyMammoth_Leather.description>
+		  <WoollyMammoth_Leather.stuffProps.stuffAdjective>z mamuciej skóry</WoollyMammoth_Leather.stuffProps.stuffAdjective>
+		  <WoollyMammoth_Meat.label>mięso z mamuta</WoollyMammoth_Meat.label>
+		  <WoollyMammoth_Meat.description>Surowe mięso z mamuta.</WoollyMammoth_Meat.description> -->
+    <WoollyMammoth_Corpse.label>Zwłoki mamuta włochatego</WoollyMammoth_Corpse.label>
+    <WoollyMammoth_Corpse.description>Martwe ciało mamuta włochatego.</WoollyMammoth_Corpse.description>
+	
+	<Elasmotherium.label>elasmoterium</Elasmotherium.label>
+	<Elasmotherium.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy znany rogaty nosorożec. Elasmoterium używa swego olbrzymiego pojedynczego rogu, umiejscowionego na jego czole, do walki, przyciągania uwagi osobników płci przeciwnej, zamiatania śniegu, a także kopania w ziemi - w poszukiwaniu wody i korzeni roślin.</Elasmotherium.description>	
+    <Elasmotherium.tools.0.label>róg</Elasmotherium.tools.0.label>
+    <Elasmotherium.tools.2.label>głowa</Elasmotherium.tools.2.label>
+	<!--  <Elasmotherium_Leather.label>skóra elasmoterium</Elasmotherium_Leather.label>
+		  <Elasmotherium_Leather.description>Materiał wytworzony ze skóry elasmoterium.</Elasmotherium_Leather.description>
+		  <Elasmotherium_Leather.stuffProps.stuffAdjective>ze skóry elasmoterium</Elasmotherium_Leather.stuffProps.stuffAdjective>
+		  <Elasmotherium_Meat.label>mięso z elasmoterium</Elasmotherium_Meat.label>
+		  <Elasmotherium_Meat.description>Surowe mięso z elasmoterium.</Elasmotherium_Meat.description> -->
+    <Elasmotherium_Corpse.label>Zwłoki elasmoterium</Elasmotherium_Corpse.label>
+    <Elasmotherium_Corpse.description>Martwe ciało elasmoterium.</Elasmotherium_Corpse.description>
+	
+	<Smilodon.label>smilodon</Smilodon.label>
+	<Smilodon.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nSmilodon to niezywkle niebezpieczny drapieżnik, który kończy żywoty swych ofiar poprzez przytrzymywanie ich swymi silnymi przednimi kończynami i zatapianie pary ogromnych siekaczy głęboko w ich szyjach.</Smilodon.description>	
+    <Smilodon.tools.0.label>lewy pazur</Smilodon.tools.0.label>
+    <Smilodon.tools.1.label>prawy pazur</Smilodon.tools.1.label>
+	<!--  <Smilodon_Leather.label>skóra smilodona</Smilodon_Leather.label>
+		  <Smilodon_Leather.description>Materiał wytworzony ze skóry smilodona.</Smilodon_Leather.description>
+		  <Smilodon_Leather.stuffProps.stuffAdjective>ze skóry smilodona</Smilodon_Leather.stuffProps.stuffAdjective>
+		  <Smilodon_Meat.label>mięso ze smilodona</Smilodon_Meat.label>
+		  <Smilodon_Meat.description>Surowe mięso ze smilodona.</Smilodon_Meat.description> -->
+    <Smilodon_Corpse.label>Zwłoki smilodona</Smilodon_Corpse.label>
+    <Smilodon_Corpse.description>Martwe ciało smilodona.</Smilodon_Corpse.description>
+	
+	<Chalicotherium.label>chalikoterium</Chalicotherium.label>
+	<Chalicotherium.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nPomimo tego, co jego niedorzeczny wygląd mógłby sugerować, chalikoterium jest najbliżej spokrewnione z końmi i nosorożcami.\nChodzi na knykciach, a swych wielkich, przywodzących na myśl te leniwców, pazurów używa jako grabi i sposobu obrony przed drapieżnikami.</Chalicotherium.description>	
+    <Chalicotherium.tools.0.label>lewy pazur</Chalicotherium.tools.0.label>
+    <Chalicotherium.tools.1.label>prawy pazur</Chalicotherium.tools.1.label>
+	<!--  <Chalicotherium_Leather.label>skóra chalikoterium</Chalicotherium_Leather.label>
+		  <Chalicotherium_Leather.description>Materiał wytworzony ze skóry chalikoterium.</Chalicotherium_Leather.description>
+		  <Chalicotherium_Leather.stuffProps.stuffAdjective>ze skóry chalikoterium</Chalicotherium_Leather.stuffProps.stuffAdjective> -->
+    <Chalicotherium_Meat.label>mięso z chalikoterium</Chalicotherium_Meat.label>
+    <Chalicotherium_Meat.description>Surowe mięso z chalikoterium.</Chalicotherium_Meat.description>
+    <Chalicotherium_Corpse.label>Zwłoki chalikoterium</Chalicotherium_Corpse.label>
+    <Chalicotherium_Corpse.description>Martwe ciało chalikoterium.</Chalicotherium_Corpse.description>
+
+	<Megaloceros.label>megaloceros</Megaloceros.label>
+	<Megaloceros.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nPomimo bycia kolokwialnie nazywanym "łosiem irlandzkim", nie jest on faktycznym łosiem, a olbrzymich rozmiarów jeleniem.\nMegaloceros jest roślinożercą z ostrym temperamentem, który nie zawaha się użyć swego ekstraordynarnie dużego poroża do zadania fatalnych ran swym przeciwnikom. Poza walką, owa broń służy mu tylko i wyłącznie do przyciągania uwagi samic.</Megaloceros.description>	
+    <Megaloceros.tools.0.label>lewe kopyto</Megaloceros.tools.0.label>
+    <Megaloceros.tools.1.label>prawe kopyto</Megaloceros.tools.1.label>
+    <Megaloceros.tools.2.label>głowa</Megaloceros.tools.2.label>
+	<!--  <Megaloceros_Leather.label>skóra megalocerosa</Megaloceros_Leather.label>
+		  <Megaloceros_Leather.description>Materiał wytworzony ze skóry megalocerosa.</Megaloceros_Leather.description>
+		  <Megaloceros_Leather.stuffProps.stuffAdjective>ze skóry megalocerosa</Megaloceros_Leather.stuffProps.stuffAdjective>
+		  <Megaloceros_Meat.label>mięso z megalocerosa</Megaloceros_Meat.label>
+		  <Megaloceros_Meat.description>Surowe mięso z megalocerosa.</Megaloceros_Meat.description> -->
+    <Megaloceros_Corpse.label>Zwłoki megalocerosa</Megaloceros_Corpse.label>
+    <Megaloceros_Corpse.description>Martwe ciało megalocerosa.</Megaloceros_Corpse.description>
+	
+	<Procoptodon.label>procoptodon</Procoptodon.label>
+	<Procoptodon.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy kangur, jaki kiedykolwiek stąpał po ziemi. W przeciwieństwie do swych współczesnych odpowiedników, procoptodon porusza się nie poprzez skakanie, a chód - podobny do tego człowiekowatch.\nSą to zwierzęta bardzo niebezpieczne, z powodu swojej zdolności to zadawania obłędnie szybkich naprzemiennych ciosów silnymi ramionami.</Procoptodon.description>	
+    <Procoptodon.tools.0.label>stopy</Procoptodon.tools.0.label>
+    <Procoptodon.tools.1.label>lewa pięść</Procoptodon.tools.1.label>
+    <Procoptodon.tools.2.label>prawa pięść</Procoptodon.tools.2.label>
+	<!--  <Procoptodon_Leather.label>skóra procoptodona</Procoptodon_Leather.label>
+		  <Procoptodon_Leather.description>Materiał wytworzony ze skóry procoptodona.</Procoptodon_Leather.description>
+		  <Procoptodon_Leather.stuffProps.stuffAdjective>ze skóry procoptodona</Procoptodon_Leather.stuffProps.stuffAdjective> -->
+    <Procoptodon_Meat.label>mięso z kangura</Procoptodon_Meat.label>
+    <Procoptodon_Meat.description>Surowe mięso z kangura.</Procoptodon_Meat.description>
+    <Procoptodon_Corpse.label>Zwłoki procoptodona</Procoptodon_Corpse.label>
+    <Procoptodon_Corpse.description>Martwe ciało procoptodona.</Procoptodon_Corpse.description>
+	
+	<Megalania.label>megalania</Megalania.label>
+	<Megalania.description>Dawno wymarłe, ogromne gady, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększa lądowa jaszczurka wszechczasów, a także największy jadowity kręgowiec w historii.\nPrzez mizerną długość jej nóg, większość ofiar megalanii jest w stanie uciec jej ze stosunkową łatwością, przez co najczęściej musi ona całkowicie polegać na elemencie zaskoczenia w swych polowaniach.</Megalania.description>	
+    <Megalania.tools.0.label>lewy pazur</Megalania.tools.0.label>
+    <Megalania.tools.1.label>prawy pazur</Megalania.tools.1.label>
+	<!--  <Megalania_Leather.label>skóra megalanii</Megalania_Leather.label>
+		  <Megalania_Leather.description>Materiał wytworzony ze skóry megalanii.</Megalania_Leather.description>
+		  <Megalania_Leather.stuffProps.stuffAdjective>ze skóry megalanii</Megalania_Leather.stuffProps.stuffAdjective> -->
+    <Megalania_Meat.label>mięso z jaszczurki</Megalania_Meat.label>
+    <Megalania_Meat.description>Surowe mięso z jaszczurki.</Megalania_Meat.description>
+    <Megalania_Corpse.label>Zwłoki megalanii</Megalania_Corpse.label>
+    <Megalania_Corpse.description>Martwe ciało megalanii.</Megalania_Corpse.description>
+	
+	<Gomphotaria.label>gomfotaria</Gomphotaria.label>
+	<Gomphotaria.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nGomfotaria jest wyposażona nie w jedną, a dwie pary wielkich kłów, których używa do miażdżenia i przeszywania swych ofiar.\nIch przywodzące na myśl foki ciała pozwalają im na bardzo zwinne poruszanie się pod wodą, jednakowoż, ze względu na swą sporą masę i brak faktycznych nóg, gomfotarie są dość ślamazarne na lądzie.</Gomphotaria.description>	
+    <!--  <Gomphotaria_Leather.label>skóra gomfotarii</Gomphotaria_Leather.label>
+		  <Gomphotaria_Leather.description>Materiał wytworzony ze skóry gomfotarii.</Gomphotaria_Leather.description>
+		  <Gomphotaria_Leather.stuffProps.stuffAdjective>ze skóry gomfotarii</Gomphotaria_Leather.stuffProps.stuffAdjective> -->
+    <Gomphotaria_Meat.label>mięso z morsa</Gomphotaria_Meat.label>
+    <Gomphotaria_Meat.description>Surowe mięso z morsa.</Gomphotaria_Meat.description>
+    <Gomphotaria_Corpse.label>Zwłoki gomfotarii</Gomphotaria_Corpse.label>
+    <Gomphotaria_Corpse.description>Martwe ciało gomfotarii.</Gomphotaria_Corpse.description>
+	
+	<Diprotodon.label>diprotodon</Diprotodon.label>
+	<Diprotodon.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy znany torbacz w historii. Tak wielki jak nosorożec, wyglądem przypomina gigantycznego wombata.\nDiprotodon to relatywnie spokojne stworzenie, aczkolwiek w sytuacji zagrożenia, nie zawaha się użyć swej wielkiej pary przednich zębów i mocnych pazurów do obrony.</Diprotodon.description>	
+    <Diprotodon.tools.0.label>lewy pazur</Diprotodon.tools.0.label>
+    <Diprotodon.tools.1.label>prawy pazur</Diprotodon.tools.1.label>
+	<!--  <Diprotodon_Leather.label>skóra diprotodona</Diprotodon_Leather.label>
+		  <Diprotodon_Leather.description>Materiał wytworzony ze skóry diprotodona.</Diprotodon_Leather.description>
+		  <Diprotodon_Leather.stuffProps.stuffAdjective>ze skóry diprotodona</Diprotodon_Leather.stuffProps.stuffAdjective> -->
+    <Diprotodon_Meat.label>mięso z diprotodona</Diprotodon_Meat.label>
+    <Diprotodon_Meat.description>Surowe mięso z diprotodona.</Diprotodon_Meat.description>
+    <Diprotodon_Corpse.label>Zwłoki diprotodona</Diprotodon_Corpse.label>
+    <Diprotodon_Corpse.description>Martwe ciało diprotodona.</Diprotodon_Corpse.description>
+	
+	<ShortfacedBear.label>niedźwiedź krótkopyski</ShortfacedBear.label>
+	<ShortfacedBear.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nJeden z największych, jeśli nie największy niedźwiedź w historii. Jeśli chodzi o wygląd zewnętrzny, to co go odróżnia najbardziej od reszty niedźwiedzi to jego nieproporcjonalnie krótki pysk i ekstraordynarnie długie nogi. To ostatnie sprawia, iż mało która z jego ofiar ma jakiekolwiek szanse mu uciec.</ShortfacedBear.description>	
+    <ShortfacedBear.tools.0.label>lewy pazur</ShortfacedBear.tools.0.label>
+    <ShortfacedBear.tools.1.label>prawy pazur</ShortfacedBear.tools.1.label>
+	<ShortfacedBear_Corpse.label>Zwłoki niedźwiedzia krótkopyskiego</ShortfacedBear_Corpse.label>
+    <ShortfacedBear_Corpse.description>Martwe ciało niedźwiedzia krótkopyskiego.</ShortfacedBear_Corpse.description>
+
+	<Dinocrocuta.label>dinokrokuta</Dinocrocuta.label>
+	<Dinocrocuta.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nOlbrzymie drapieżniki, przypominające hieny. Ich niesamowicie silne szczęki z łatwością kruszą kości.\nEkstremalnie agresywne, znane są z zaskakująco częstego polowania na zwierzęta znacznie większe od nich samych.</Dinocrocuta.description>	
+    <Dinocrocuta.tools.0.label>lewy pazur</Dinocrocuta.tools.0.label>
+    <Dinocrocuta.tools.1.label>prawy pazur</Dinocrocuta.tools.1.label>
+	<!--  <Dinocrocuta_Leather.label>skóra dinokrokuty</Dinocrocuta_Leather.label>
+		  <Dinocrocuta_Leather.description>Materiał wytworzony ze skóry dinokrokuty.</Dinocrocuta_Leather.description>
+		  <Dinocrocuta_Leather.stuffProps.stuffAdjective>ze skóry dinokrokuty</Dinocrocuta_Leather.stuffProps.stuffAdjective> -->
+    <Dinocrocuta_Meat.label>mięso z dinokrokuty</Dinocrocuta_Meat.label>
+    <Dinocrocuta_Meat.description>Surowe mięso z dinokrokuty.</Dinocrocuta_Meat.description>
+    <Dinocrocuta_Corpse.label>Zwłoki dinokrokuty</Dinocrocuta_Corpse.label>
+    <Dinocrocuta_Corpse.description>Martwe ciało dinokrokuty.</Dinocrocuta_Corpse.description>
+	
+	<Sivatherium.label>siwaterium</Sivatherium.label>
+	<Sivatherium.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy przeżuwacz w historii. W przeciwieństwie do swych współczesnych odpowiedników, żyraf i okapi, siwaterium jest wyposażone w aż dwie pary wyrostków chrzęstnych: jedną szeroką, na czubku głowy - w kształcie poroża, zaś drugą, przpominającą rogi - nad oczyma.</Sivatherium.description>	
+    <Sivatherium.tools.0.label>lewe kopyto</Sivatherium.tools.0.label>
+    <Sivatherium.tools.1.label>prawe kopyto</Sivatherium.tools.1.label>
+    <Sivatherium.tools.2.label>głowa</Sivatherium.tools.2.label>
+	<!--  <Sivatherium_Leather.label>skóra megalanii</Sivatherium_Leather.label>
+		  <Sivatherium_Leather.description>Materiał wytworzony ze skóry siwaterium.</Sivatherium_Leather.description>
+		  <Sivatherium_Leather.stuffProps.stuffAdjective>ze skóry siwaterium</Sivatherium_Leather.stuffProps.stuffAdjective> -->
+    <Sivatherium_Meat.label>mięso z siwaterium</Sivatherium_Meat.label>
+    <Sivatherium_Meat.description>Surowe mięso z siwaterium.</Sivatherium_Meat.description>
+    <Sivatherium_Corpse.label>Zwłoki siwaterium</Sivatherium_Corpse.label>
+    <Sivatherium_Corpse.description>Martwe ciało siwaterium.</Sivatherium_Corpse.description>
+	
+	<Andrewsarchus.label>andrewsarchus</Andrewsarchus.label>
+	<Andrewsarchus.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nTen tajemniczy mięsożerca był największym drapieżnym ssakiem swoich czasów.\nPomimo częstego bycia opisywanym jako "niedźwiedzio-pies", andrewsarchus był najbliżej spokrewniony z entelodontami, hipopotamami i wielorybami.</Andrewsarchus.description>	
+    <Andrewsarchus.tools.0.label>lewy pazur</Andrewsarchus.tools.0.label>
+    <Andrewsarchus.tools.1.label>prawy pazur</Andrewsarchus.tools.1.label>
+	<!--  <Andrewsarchus_Leather.label>skóra andrewsarchusa</Andrewsarchus_Leather.label>
+		  <Andrewsarchus_Leather.description>Materiał wytworzony ze skóry andrewsarchusa.</Andrewsarchus_Leather.description>
+		  <Andrewsarchus_Leather.stuffProps.stuffAdjective>ze skóry andrewsarchusa</Andrewsarchus_Leather.stuffProps.stuffAdjective> -->
+    <Andrewsarchus_Meat.label>mięso z andrewsarchusa</Andrewsarchus_Meat.label>
+    <Andrewsarchus_Meat.description>Surowe mięso z andrewsarchusa.</Andrewsarchus_Meat.description>
+    <Andrewsarchus_Corpse.label>Zwłoki andrewsarchusa</Andrewsarchus_Corpse.label>
+    <Andrewsarchus_Corpse.description>Martwe ciało andrewsarchusa.</Andrewsarchus_Corpse.description>
+	
+	<Dinornis.label>dinornis</Dinornis.label>
+	<Dinornis.description>Dawno wymarłe, ogromne ptaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwyższe ptaki, jakie kiedykolwiek istniały. Należą do rodziny moa i charakteryzuje je dosyć radykalny dymorfizm płciowy, z samicami będącymi znacznie masywniejszymi niż samcami.</Dinornis.description>	
+    <Dinornis.tools.0.label>pazury</Dinornis.tools.0.label>
+	<!--  <Dinornis_Leather.label>skóra dinornis</Dinornis_Leather.label>
+		  <Dinornis_Leather.description>Materiał wytworzony ze skóry ptaka dinornis.</Dinornis_Leather.description>
+		  <Dinornis_Leather.stuffProps.stuffAdjective>ze skóry dinornis</Dinornis_Leather.stuffProps.stuffAdjective> -->
+    <Dinornis_Corpse.label>Zwłoki dinornis</Dinornis_Corpse.label>
+    <Dinornis_Corpse.description>Martwe ciało ptaka dinornis.</Dinornis_Corpse.description>
+	
+	<Macrauchenia.label>makrauchenia</Macrauchenia.label>
+	<Macrauchenia.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nPomimo posiadania trąby, nozdrza makrauchenii umiejscowione są na szczycie jej głowy.\nJest niebywale zwinna, i dzięki swemu przystosowaniu do nagłej zmiany kierunku w trakcie biegu, jest w stanie uciec większości drapieżników z łatwością.</Macrauchenia.description>	
+    <Macrauchenia.tools.0.label>lewe kopyto</Macrauchenia.tools.0.label>
+    <Macrauchenia.tools.1.label>prawe kopyto</Macrauchenia.tools.1.label>
+	<!--  <Macrauchenia_Leather.label>skóra makrauchenii</Macrauchenia_Leather.label>
+		  <Macrauchenia_Leather.description>Materiał wytworzony ze skóry makrauchenii.</Macrauchenia_Leather.description>
+		  <Macrauchenia_Leather.stuffProps.stuffAdjective>ze skóry makrauchenii</Macrauchenia_Leather.stuffProps.stuffAdjective> -->
+    <Macrauchenia_Meat.label>mięso z makrauchenii</Macrauchenia_Meat.label>
+    <Macrauchenia_Meat.description>Surowe mięso z makrauchenii.</Macrauchenia_Meat.description>
+    <Macrauchenia_Corpse.label>Zwłoki makrauchenii</Macrauchenia_Corpse.label>
+    <Macrauchenia_Corpse.description>Martwe ciało makrauchenii.</Macrauchenia_Corpse.description>
+	
+	<Quinkana.label>quinkana</Quinkana.label>
+	<Quinkana.description>Dawno wymarłe, ogromne gady, przywrócone do życia w ramach Projektu Megafauna.\n\nTen lądowy krokodyl wyposażony jest w długie nogi, które czynią go znacznie lepszym biegaczem niż jego współczesne odpowiedniki.\nZęby quinkany kształtem przypominają noże, co sprawia, że nadają się idealnie do praktycznie odcinania kawałków zdobyczy.</Quinkana.description>	
+    <Quinkana.tools.0.label>lewy pazur</Quinkana.tools.0.label>
+    <Quinkana.tools.1.label>prawy pazur</Quinkana.tools.1.label>
+	<!--  <Quinkana_Leather.label>skóra quinkany</Quinkana_Leather.label>
+		  <Quinkana_Leather.description>Materiał wytworzony ze skóry quinkany.</Quinkana_Leather.description>
+		  <Quinkana_Leather.stuffProps.stuffAdjective>ze skóry quinkany</Quinkana_Leather.stuffProps.stuffAdjective> -->
+    <Quinkana_Meat.label>mięso z krokodyla</Quinkana_Meat.label>
+    <Quinkana_Meat.description>Surowe mięso z krokodyla.</Quinkana_Meat.description>
+    <Quinkana_Corpse.label>Zwłoki quinkany</Quinkana_Corpse.label>
+    <Quinkana_Corpse.description>Martwe ciało quinkany.</Quinkana_Corpse.description>
+
+	<Deinotherium.label>deinoterium</Deinotherium.label>
+	<Deinotherium.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\n"Deinoterium" oznacza dosłownie "straszna bestia". Jest to unikatowy kuzyn mamutów i mastodontów, wyposażony w masywne zagięte w dół ciosy, umiejscowione w żuchwie.\nBardzo agresywne i niezwykle niebezpieczne gdy rozwścieczone.</Deinotherium.description>	
+    <Deinotherium.tools.0.label>cios</Deinotherium.tools.0.label>
+    <Deinotherium.tools.1.label>lewa stopa</Deinotherium.tools.1.label>
+    <Deinotherium.tools.2.label>prawa stopa</Deinotherium.tools.2.label>
+    <Deinotherium.tools.3.label>głowa</Deinotherium.tools.3.label>
+	<Deinotherium_Corpse.label>Zwłoki deinoterium</Deinotherium_Corpse.label>
+    <Deinotherium_Corpse.description>Martwe ciało deinoterium.</Deinotherium_Corpse.description>
+	
+	<Aurochs.label>tur</Aurochs.label>
+	<Aurochs.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nPrzodek współczesnego bydła domowego, tur, był dla krów tym, czym wilki są dla psów.\nWiększy, silniejszy, szybszy, ale w zamian produkujący mniej surowców i konsumujący więcej niż dzisiejsze bydło.</Aurochs.description>	
+    <Aurochs.tools.0.label>lewe kopyto</Aurochs.tools.0.label>
+    <Aurochs.tools.1.label>prawe kopyto</Aurochs.tools.1.label>
+    <Aurochs.tools.2.label>róg</Aurochs.tools.2.label>
+    <Aurochs.tools.3.label>głowa</Aurochs.tools.3.label>
+	<Aurochs_Corpse.label>Zwłoki tura</Aurochs_Corpse.label>
+    <Aurochs_Corpse.description>Martwe ciało tura.</Aurochs_Corpse.description>
+	
+	<Megalochelys.label>megalochelys</Megalochelys.label>
+	<Megalochelys.description>Dawno wymarłe, ogromne gady, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy żółw lądowy wszechczasów.\nNiewiele drapieżników jest w stanie zagrozić megalochelysowi, dzięki jego grubej, twardej jak skała skorupie. Ci, którzy mimo wszystko podejmą próbę ataku na żółwia, muszą liczyć się z jego zaskakująco silnymi ugryzieniami.</Megalochelys.description>	
+    <Megalochelys.tools.0.label>dziób</Megalochelys.tools.0.label>
+    <Megalochelys.tools.1.label>głowa</Megalochelys.tools.1.label>
+	<Megalochelys_Corpse.label>Zwłoki megalochelysa</Megalochelys_Corpse.label>
+    <Megalochelys_Corpse.description>Martwe ciało megalochelysa.</Megalochelys_Corpse.description>
+	
+	<Palaeeudyptes.label>palaeeudyptes</Palaeeudyptes.label>
+	<Palaeeudyptes.description>Dawno wymarłe, ogromne ptaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy pingwin w historii.\nChoć oczywiście przystosowany najlepiej do łowienia ryb, palaeeudyptes nie omieszka wykorzystać swego wielkiego rozmiaru, by zapolować też na inne kręgowce mniejsze od jego samego.</Palaeeudyptes.description>	
+    <Palaeeudyptes.tools.0.label>pazury</Palaeeudyptes.tools.0.label>
+	<Palaeeudyptes_Corpse.label>Zwłoki palaeeudyptesa</Palaeeudyptes_Corpse.label>
+    <Palaeeudyptes_Corpse.description>Martwe ciało pingwina palaeeudyptesa.</Palaeeudyptes_Corpse.description>
+
+	<Josephoartigasia.label>josephoartigasia</Josephoartigasia.label>
+	<Josephoartigasia.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy gryzoń wszechczasów, josephoartigasia, przypomina gigantyczną kapibarę bądź pakaranę, choć pod wieloma względami blisko jej do współczesnych hipopotamów.\nNie jest dobrym biegaczem, za co rekompensuje ogromnymi siekaczami, które mogą stanowić poważne zagrożenie dla pomniejszych drapieżników.</Josephoartigasia.description>
+    <Josephoartigasia.tools.0.label>lewy pazur</Josephoartigasia.tools.0.label>
+    <Josephoartigasia.tools.1.label>prawy pazur</Josephoartigasia.tools.1.label>
+	<Josephoartigasia_Meat.label>mięso z josephoartigasii</Josephoartigasia_Meat.label>
+    <Josephoartigasia_Meat.description>Surowe mięso z josephoartigasii.</Josephoartigasia_Meat.description>	
+    <Josephoartigasia_Corpse.label>Zwłoki josephoartigasii</Josephoartigasia_Corpse.label>
+    <Josephoartigasia_Corpse.description>Martwe ciało josephoartigasii.</Josephoartigasia_Corpse.description>
+	
+	<Gigantophis.label>gigantofis</Gigantophis.label>
+	<Gigantophis.description>Dawno wymarłe, ogromne gady, przywrócone do życia w ramach Projektu Megafauna.\n\nDrugi najmasywniejszy wąż w historii, uważany za największego, dopóki nie odkryto titanoboa.\nO wiele preferuje polowanie na ofiary sporych rozmiarów, gdyż takowe łatwiej wywęszyć.</Gigantophis.description>	
+    <Gigantophis_Corpse.label>Zwłoki gigantofisa</Gigantophis_Corpse.label>
+    <Gigantophis_Corpse.description>Martwe ciało węża gigantofisa.</Gigantophis_Corpse.description>
+	
+	<Meganeura.label>meganeura</Meganeura.label>
+	<Meganeura.description>Dawno wymarłe, ogromne stawonogi, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy latający owad, jaki kiedykolwiek istniał, meganeura, podobnie jak współczesne ważki, jest wysoce wyspecjalizowanym drapieżnikem.\nSzybka i zwinna, w swych czasach nie posiadała żadnej powietrznej konkurencji, co było jednym z powodów jej ewolucji do tak gigantycznych rozmiarów.</Meganeura.description>
+	<Meganeura_Corpse.label>Zwłoki meganeury</Meganeura_Corpse.label>
+    <Meganeura_Corpse.description>Martwe ciało meganeury.</Meganeura_Corpse.description>
+	
+	<Zygolophodon.label>zygolofodon</Zygolophodon.label>
+	<Zygolophodon.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nJeden z mastodontów i zarazem posiadacz jednych z najdłuższych ciosów w historii.\nChoć bardziej prymitywny od mamutów, jest większy, wytrzymalszy i silniejszy niż większość z nich. Waży też więcej niż niektóre zauropody.</Zygolophodon.description>	
+    <Zygolophodon.tools.0.label>cios</Zygolophodon.tools.0.label>
+    <Zygolophodon.tools.1.label>lewa stopa</Zygolophodon.tools.1.label>
+    <Zygolophodon.tools.2.label>prawa stopa</Zygolophodon.tools.2.label>
+    <Zygolophodon.tools.3.label>głowa</Zygolophodon.tools.3.label>
+	<Zygolophodon_Corpse.label>Zwłoki zygolofodona</Zygolophodon_Corpse.label>
+    <Zygolophodon_Corpse.description>Martwe ciało zygolofodona.</Zygolophodon_Corpse.description>
+	
+	<Platybelodon.label>platybelodon</Platybelodon.label>
+	<Platybelodon.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nUnikatowy rodzaj trąbowców, które, z powodu kształtu swych dolnych siekaczy, bywają nazywane "szuflowymi słoniami".\nZwierzę to przytrzymuje trąbą gałęzie drzew, jednocześnie pocierając o nie swe dolne zęby, w celu ich odcięcia. "Ciosowa łopata" platybelodona służy też mu do zdzierania kory z drzew.</Platybelodon.description>	
+    <Platybelodon.tools.0.label>cios</Platybelodon.tools.0.label>
+    <Platybelodon.tools.1.label>lewa stopa</Platybelodon.tools.1.label>
+    <Platybelodon.tools.2.label>prawa stopa</Platybelodon.tools.2.label>
+    <Platybelodon.tools.3.label>głowa</Platybelodon.tools.3.label>
+    <Platybelodon_Corpse.label>Zwłoki platybelodona</Platybelodon_Corpse.label>
+    <Platybelodon_Corpse.description>Martwe ciało platybelodona.</Platybelodon_Corpse.description>
+	
+	<Purussaurus.label>purussaurusa</Purussaurus.label>
+	<Purussaurus.description>Dawno wymarłe, ogromne gady, przywrócone do życia w ramach Projektu Megafauna.\n\nCałkiem prawdopodobnie największy krokodyl wszechczasów, a zarazem największy gad chodzący po Ziemi po wymarciu dinozaurów.\nJest tak ogromny, że na jego jadłospisie znajdują się nawet ogromne naziemne leniwce.</Purussaurus.description>	
+    <Purussaurus.tools.0.label>lewy pazur</Purussaurus.tools.0.label>
+    <Purussaurus.tools.1.label>prawy pazur</Purussaurus.tools.1.label>
+	<Purussaurus_Corpse.label>Zwłoki purussaurusa</Purussaurus_Corpse.label>
+    <Purussaurus_Corpse.description>Martwe ciało purussaurusa.</Purussaurus_Corpse.description>
+	
+	<Uintatherium.label>uintatherium</Uintatherium.label>
+	<Uintatherium.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nBardzo prymitywny, olbrzymi krewny nosorożców.\nNie jest to może najpiękniejsze, ani najbardziej inteligentne ze zwierząt, z mózgiem będącym ledwie wielkości pomarańczy, ale za to jego mocny grzbiet czyni go dobrym partnerem do podróży.</Uintatherium.description>
+    <Uintatherium.tools.0.label>rogi</Uintatherium.tools.0.label>
+    <Uintatherium.tools.2.label>głowa</Uintatherium.tools.2.label>
+	<Uintatherium_Meat.label>mięso z uintatherium</Uintatherium_Meat.label>
+    <Uintatherium_Meat.description>Surowe mięso z uintatherium.</Uintatherium_Meat.description>	
+    <Uintatherium_Corpse.label>Zwłoki uintatherium</Uintatherium_Corpse.label>
+    <Uintatherium_Corpse.description>Martwe ciało uintatherium.</Uintatherium_Corpse.description>
+	
+	<Pulmonoscorpius.label>pulmonoscorpius</Pulmonoscorpius.label>
+	<Pulmonoscorpius.description>Dawno wymarłe, ogromne stawonogi, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy lądowy skorpion, jaki kiedykolwiek istniał.\nPulmonoscorpius to samotnie polujący drapieżnik, zdolny do powalenia stworzeń znacznie większych od siebie samego, dzięki swemu śmercionośnemu jadowi. Za wszelką cenę powinno się unikać kontaktu z jego kolcem jadowym.</Pulmonoscorpius.description>
+    <Pulmonoscorpius.tools.0.label>lewy szczypiec</Pulmonoscorpius.tools.0.label>
+    <Pulmonoscorpius.tools.1.label>prawy szczypiec</Pulmonoscorpius.tools.1.label>
+    <Pulmonoscorpius.tools.2.label>kolec jadowy</Pulmonoscorpius.tools.2.label>
+	<Pulmonoscorpius_Corpse.label>Zwłoki pulmonoscorpiusa</Pulmonoscorpius_Corpse.label>
+    <Pulmonoscorpius_Corpse.description>Martwe ciało pulmonoscorpiusa.</Pulmonoscorpius_Corpse.description>
+	
+	<Dinopithecus.label>dinopitek</Dinopithecus.label>
+	<Dinopithecus.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nGigantyczny gatunek pawianów, wyraźnie gustujący w mięsie.\nByły one naturalnymi przeciwnikami wczesnych ludzi, polującymi na nich częściej niż można by się spodziewać. Możliwe, iż także współczesnych ludzi mogą postrzegać jako potencjalne ofiary.</Dinopithecus.description>	
+    <Dinopithecus.tools.0.label>lewa dłoń</Dinopithecus.tools.0.label>
+    <Dinopithecus.tools.1.label>prawa dłoń</Dinopithecus.tools.1.label>
+	<Dinopithecus_Corpse.label>Zwłoki dinopiteka</Dinopithecus_Corpse.label>
+    <Dinopithecus_Corpse.description>Martwe ciało dinopiteka.</Dinopithecus_Corpse.description>
+	
+	<Castoroides.label>castoroides</Castoroides.label>
+	<Castoroides.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nOlbrzymi bóbr; największy, jaki kiedykolwiek istniał.\nJego siekacze nie są aż tak dobrze przystosowane do cięcia drewna, jak te dzisiejszych bobrów, co sprawia, że nie zaprząta on sobie głowy budowaniem tam. To sprawia, że znacznie częściej jest on zmuszony do ucieczki bądź walki z drapieżnikami, zamiast zwyczajnie się przed nimi schować.</Castoroides.description>	
+    <Castoroides.tools.0.label>lewy pazur</Castoroides.tools.0.label>
+    <Castoroides.tools.1.label>prawy pazur</Castoroides.tools.1.label>
+    <Castoroides.tools.3.label>głowa</Castoroides.tools.3.label>	
+	<Castoroides_Corpse.label>Zwłoki castoroidesa</Castoroides_Corpse.label>
+    <Castoroides_Corpse.description>Martwe ciało castoroidesa.</Castoroides_Corpse.description>
+	
+	<Enhydriodon.label>enhydriodon</Enhydriodon.label>
+	<Enhydriodon.description>Dawno wymarłe, ogromne ssaki, przywrócone do życia w ramach Projektu Megafauna.\n\nNajwiększy łasicowaty, jakiego kiedykolwiek odkryto. Enhydriodon to wielki niczym niedźwiedź przodek współczesnych wydr i niezwykle niebezpieczny drapieżnik stanowiący zagrożenie dla wczesnych ludzi.\nŚwietny pływak, zaskakujący zwinny na lądzie.</Enhydriodon.description>	
+    <Enhydriodon.tools.0.label>lewy pazur</Enhydriodon.tools.0.label>
+    <Enhydriodon.tools.1.label>prawy pazur</Enhydriodon.tools.1.label>
+	<Enhydriodon_Meat.label>mięso z wydry</Enhydriodon_Meat.label>
+    <Enhydriodon_Meat.description>Surowe mięso z wydry.</Enhydriodon_Meat.description>
+    <Enhydriodon_Corpse.label>Zwłoki enhydriodona</Enhydriodon_Corpse.label>
+    <Enhydriodon_Corpse.description>Martwe ciało enhydriodona.</Enhydriodon_Corpse.description>
+	
+</LanguageData>
