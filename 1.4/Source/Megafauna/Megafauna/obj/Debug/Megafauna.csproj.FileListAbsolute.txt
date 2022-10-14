@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Megafauna\1.4\Assemblies\Megafauna.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Megafauna\1.4\Source\Megafauna\Megafauna\obj\Debug\Megafauna.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Megafauna\1.4\Source\Megafauna\Megafauna\obj\Debug\Megafauna.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Megafauna\1.4\Source\Megafauna\Megafauna\obj\Debug\Megafauna.dll
